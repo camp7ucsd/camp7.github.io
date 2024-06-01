@@ -31,4 +31,4 @@ All deadlines are 11:59 PM PST. **NOTE:** the abstract deadline has been EXTENDE
 * **Jan 13-14:** CAMP\[7\]!
 
 ## Past CAMPs
-CAMP has been held at [Stanford](https://camp6.github.io) [UCLA](https://sites.google.com/view/camp-ucla2017/home) (2017), [USC](https://sites.google.com/view/camp-usc2018/home) (2018), [UCSC](https://sites.google.com/view/camp-ucsc/) (2019), [UCI](https://sites.google.com/view/camp-2021/home) (2021), and [UCLA](https://sites.google.com/view/camp5-ucla) (2023).
+CAMP has been held at  [UCLA](https://sites.google.com/view/camp-ucla2017/home) (2017), [USC](https://sites.google.com/view/camp-usc2018/home) (2018), [UCSC](https://sites.google.com/view/camp-ucsc/) (2019), [UCI](https://sites.google.com/view/camp-2021/home) (2021), [UCLA](https://sites.google.com/view/camp5-ucla) (2023), and [Stanford](https://camp6.github.io) (2024)
