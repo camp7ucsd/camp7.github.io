@@ -8,9 +8,9 @@ order: 2
 CAMP[6] abstracts can be submitted for **talks, posters, or both**. The specific format of "posters" (e.g., physical / virtual / flash talks / etc.) will be announced at a later date.
 
 ## Important Dates
-**Deadline:** **October 18, 2023** (EXTENDED!) by 11:59 PM PST. Submit via [Oxford Abstracts](https://app.oxfordabstracts.com/stages/6853/submitter).
+**Deadline:** **September 15, 2024**. Submit via [Oxford Abstracts](link-here).
 
-Intent to submit and review is requested by **October 8, 2023** by 5PM PST, by this Google [form](https://forms.gle/CGEqg6vyp7eMoZ169). _Note: You can still submit an abstract even if you did not fill out the planning form._
+Intent to submit and review is requested by **September 1, 2024** by 5PM PST, by this Google [form](link-here). _Note: You can still submit an abstract even if you did not fill out the planning form._
 
 ## Submission Details
 Abstracts conform to the typical format of the annual Human Sentence Processing Conference. Abstracts are limited to 1 page of text, with an optional second page containing figures, references, and example materials. Abstracts must be submitted in pdf format on letter page size (8.5" x 11") with 11pt Arial font and 1 inch margins. While the submission should be anonymous, in-text references and citations do not need to be anonymized.
