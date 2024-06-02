@@ -22,13 +22,13 @@ The **CA**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-
 * Experimental syntax, semantics, or phonology
 
 ## Important Dates
-All deadlines are 11:59 PM PST. **NOTE:** the abstract deadline has been EXTENDED to Oct. 18th (from the 15th).
+All deadlines are 11:59 PM PST. 
 
-* **Oct. 8:** Intention to submit/review
-* **Oct. 18:** Abstract deadline
-* **Dec. 1:** Notification of decision
-* **Dec. 10:** [Registration](https://forms.gle/VijicvuhyDV5NC3T9) deadline
-* **Jan 13-14:** CAMP\[7\]!
+* **October 1:** Intention to submit/review
+* **September 15:** Abstract deadline
+* **October 15:** Notification of decision
+* **November 1:** [Registration]() deadline
+* **November 16-17:** CAMP\[7\]!
 
 ## Past CAMPs
 CAMP has been held at  [UCLA](https://sites.google.com/view/camp-ucla2017/home) (2017), [USC](https://sites.google.com/view/camp-usc2018/home) (2018), [UCSC](https://sites.google.com/view/camp-ucsc/) (2019), [UCI](https://sites.google.com/view/camp-2021/home) (2021), [UCLA](https://sites.google.com/view/camp5-ucla) (2023), and [Stanford](https://camp6.github.io) (2024)
