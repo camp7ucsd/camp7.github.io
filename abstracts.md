@@ -5,7 +5,7 @@ permalink: /abstracts/
 order: 2
 ---
 
-CAMP[6] abstracts can be submitted for **talks, posters, or both**. The specific format of "posters" (e.g., physical / virtual / flash talks / etc.) will be announced at a later date.
+CAMP[7] abstracts can be submitted for **talks, posters, or both**. The specific format of "posters" (e.g., physical / virtual / flash talks / etc.) will be announced at a later date.
 
 ## Important Dates
 **Deadline:** **September 15, 2024**. Submit via [Oxford Abstracts](link-here).
