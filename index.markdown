@@ -24,9 +24,10 @@ The **CA**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-
 ## Important Dates
 All deadlines are 11:59 PM PST. 
 
-* **September 1:** Intention to submit/review
+* **August 1:** Call for abstracts
+* **September 10:** Intention to submit/review
 * **September 15:** Abstract deadline
-* **October 15:** Notification of decision
+* **October 10:** Notification of decision
 * **November 1:** [Registration]() deadline
 * **November 16-17:** CAMP\[7\]!
 
