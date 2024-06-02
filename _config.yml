@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CAMP[7]
+title: CAMP[7] | California Meeting on Psycholinguistics
 email: ADD EMAIL HERE
 description: >- # this means to ignore newlines until "baseurl:"
   CAMP[7] is organized by XXXX. CAMP is
