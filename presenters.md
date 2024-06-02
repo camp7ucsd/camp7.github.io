@@ -2,7 +2,7 @@
 layout: page
 title: For Presenters
 permalink: /presenters/
-order: 5
+order: 3
 ---
 
 CAMP[7] will have both **talks** and **poster sessions** (not flash talks).
